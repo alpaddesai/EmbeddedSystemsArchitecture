@@ -1,7 +1,6 @@
 C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\bin\Release\EmbeddedSystemsArchitecture.exe.config
 C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\bin\Release\EmbeddedSystemsArchitecture.exe
 C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\bin\Release\EmbeddedSystemsArchitecture.pdb
-C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\EmbeddedSystemsArchitecture.csprojAssemblyReference.cache
 C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\AllegroEditor.g.cs
 C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\ApplicationSoftwareLayer.g.cs
 C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\Embedded Board.g.cs

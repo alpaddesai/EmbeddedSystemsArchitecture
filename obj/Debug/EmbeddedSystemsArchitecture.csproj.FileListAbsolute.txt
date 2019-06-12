@@ -22,3 +22,4 @@ C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitectur
 C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\EmbeddedSystemsArchitecture.pdb
 C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\ApplicationSoftwareLayer.g.cs
 C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\ApplicationSoftwareLayer.baml
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\EmbeddedSystemsArchitecture.csprojAssemblyReference.cache
