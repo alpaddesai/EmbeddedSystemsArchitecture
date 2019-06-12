@@ -1,0 +1,25 @@
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\bin\Release\EmbeddedSystemsArchitecture.exe.config
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\bin\Release\EmbeddedSystemsArchitecture.exe
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\bin\Release\EmbeddedSystemsArchitecture.pdb
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\EmbeddedSystemsArchitecture.csprojAssemblyReference.cache
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\AllegroEditor.g.cs
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\ApplicationSoftwareLayer.g.cs
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\Embedded Board.g.cs
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\MainWindow.g.cs
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\SystemsSoftwareLayer.g.cs
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\VerilogExample.g.cs
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\App.g.cs
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\EmbeddedSystemsArchitecture_MarkupCompile.cache
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\EmbeddedSystemsArchitecture_MarkupCompile.lref
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\AllegroEditor.baml
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\ApplicationSoftwareLayer.baml
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\Embedded Board.baml
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\MainWindow.baml
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\SystemsSoftwareLayer.baml
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\VerilogExample.baml
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\EmbeddedSystemsArchitecture.g.resources
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\EmbeddedSystemsArchitecture.Properties.Resources.resources
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\EmbeddedSystemsArchitecture.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\EmbeddedSystemsArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\EmbeddedSystemsArchitecture.exe
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Release\EmbeddedSystemsArchitecture.pdb
