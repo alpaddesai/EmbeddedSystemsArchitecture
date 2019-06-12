@@ -4,3 +4,14 @@ The project provides an overview of embedded Systems Architecture. To view the c
 https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases
 
 ![image](MainWindowImage.png)
+
+![image](MiddlewareLayer.png)
+
+![image](ApplicationLayer.png)
+
+![image](EmbeddedHardwareImage.png)
+
+![image](AllegroEditorImage.png)
+
+![image] (VerilogImage.png)
+
