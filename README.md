@@ -13,5 +13,5 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases
 
 ![image](AllegroEditorImage.png)
 
-![image] (VerilogImage.png)
+![image](VerilogImage.png)
 
