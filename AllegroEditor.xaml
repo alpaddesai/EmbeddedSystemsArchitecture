@@ -1,0 +1,45 @@
+﻿<Window x:Class="EmbeddedSystemsArchitecture.AllegroEditor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmbeddedSystemsArchitecture"
+        mc:Ignorable="d"
+        Title="AllegroEditor" Height="682.825" Width="1070" MaxWidth="1070" MaxHeight="682">
+    <Grid MaxHeight="1062">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="212*"/>
+            <ColumnDefinition Width="353*"/>
+            <ColumnDefinition Width="438*"/>
+            <ColumnDefinition Width="59*"/>
+        </Grid.ColumnDefinitions>
+        <Image Grid.ColumnSpan="2" Margin="0,0,64,324" Source="Image7.png" Stretch="Fill"/>
+        <Image Margin="289,-1,161,341" Source="Image8.png" Stretch="Fill" Grid.Column="1" Height="311" VerticalAlignment="Bottom" Grid.ColumnSpan="2"/>
+        <Label Content="Ground Planes" Grid.Column="2" HorizontalAlignment="Left" Margin="40,310,0,0" VerticalAlignment="Top" Width="136"/>
+        <Image Margin="10,328,80,-5" Source="Image9.png" Stretch="Fill" Grid.ColumnSpan="2"/>
+        <Label Content="Layer 2" Grid.Column="1" HorizontalAlignment="Left" Margin="10,276,0,0" VerticalAlignment="Top"/>
+        <Image Margin="278,332,161,0" Source="Image11.png" Stretch="Fill" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Label Content="Power Planes" Grid.Column="1" HorizontalAlignment="Left" Margin="134,318,0,0" VerticalAlignment="Top" Width="91" RenderTransformOrigin="0.5,0.5" Height="27">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1" ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="180.453"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Image Margin="68,217,-214,216" Source="Image14.png" Stretch="Fill" Grid.Column="2" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90.297"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Label Content="Cross Section" Grid.Column="2" HorizontalAlignment="Left" Margin="311,151,0,0" VerticalAlignment="Top" Width="136" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>

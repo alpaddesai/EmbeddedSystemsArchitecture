@@ -1,0 +1,24 @@
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\bin\Debug\EmbeddedSystemsArchitecture.exe.config
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\bin\Debug\EmbeddedSystemsArchitecture.exe
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\bin\Debug\EmbeddedSystemsArchitecture.pdb
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\AllegroEditor.g.cs
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\Embedded Board.g.cs
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\MainWindow.g.cs
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\SystemsSoftwareLayer.g.cs
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\VerilogExample.g.cs
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\App.g.cs
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\EmbeddedSystemsArchitecture_MarkupCompile.cache
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\EmbeddedSystemsArchitecture_MarkupCompile.lref
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\AllegroEditor.baml
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\Embedded Board.baml
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\MainWindow.baml
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\SystemsSoftwareLayer.baml
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\VerilogExample.baml
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\EmbeddedSystemsArchitecture.g.resources
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\EmbeddedSystemsArchitecture.Properties.Resources.resources
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\EmbeddedSystemsArchitecture.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\EmbeddedSystemsArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\EmbeddedSystemsArchitecture.exe
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\EmbeddedSystemsArchitecture.pdb
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\ApplicationSoftwareLayer.g.cs
+C:\Users\ADG\source\repos\EmbeddedSystemsArchitecture\EmbeddedSystemsArchitecture\obj\Debug\ApplicationSoftwareLayer.baml

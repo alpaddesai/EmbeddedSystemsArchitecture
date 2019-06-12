@@ -1,0 +1,30 @@
+﻿<Window x:Class="EmbeddedSystemsArchitecture.ApplicationSoftwareLayer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmbeddedSystemsArchitecture"
+        mc:Ignorable="d"
+        Title="Speak the Language, Application Layer" Height="507" Width="1069" MaxWidth="1069" MaxHeight="507">
+    <Grid Margin="0,0,0,-44" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="125*"/>
+            <ColumnDefinition Width="667*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="435" Margin="10,34,0,0" TextWrapping="Wrap" Text="Middleware is an abstraction layer used on embedded devices with two or more applications. The benefits include: &#xD;&#xA;* Flexibility&#xD;&#xA;* Security&#xD;&#xA;* Portability&#xD;&#xA;* Connectivity&#xD;&#xA;* Intercommunication&#xD;&#xA;* Interoperability mechanisms&#xD;&#xA;between applications.&#xD;&#xA;The disadvantages of introducing middleware include &#xD;&#xA;* additional overhead&#xD;&#xA;* impacts scalability&#xD;&#xA;* impacts performance&#xD;&#xA;Mostly known by two categories&#xD;&#xA;* General purpose&#xD;&#xA;* Market specific&#xD;&#xA;Further categorized: &#xD;&#xA;* Proprietary, closed SW for licenses&#xD;&#xA;* Open and standardized.&#xD;&#xA;Examples of integrated middleware packages that include compatible middleware elements:&#xD;&#xA;* Sun Embedded Java Solutions&#xD;&#xA;* MS. Net Compact Framework&#xD;&#xA;* CORBA&#xD;&#xA;* Object Management Group (OMG)&#xD;&#xA;" VerticalAlignment="Top" Width="262" BorderThickness="1">
+            <TextBox.BorderBrush>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HighlightTextColorKey}}"/>
+            </TextBox.BorderBrush>
+        </TextBox>
+        <Label Content="MIDDLEWARE" HorizontalAlignment="Left" Margin="112,3,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="89" FontWeight="Bold"/>
+        <Label Content="APPLICATION SOFTWARE" HorizontalAlignment="Left" Margin="612,-1,0,0" VerticalAlignment="Top" Width="180" FontWeight="Bold" Grid.Column="1"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="559,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="77" Width="319" Text="This defines the functionality of the embedded system. e.g market specific: Video on demand and general purpose: browser"/>
+        <Label Content="Reference: Embedded Systems Architecture, Tammy Noergaard" Grid.Column="1" HorizontalAlignment="Left" Margin="242,349,0,0" VerticalAlignment="Top" Width="232" FontSize="8"/>
+        <Image Margin="111,61,334,168" Source="Image26.png" Stretch="Fill" Grid.Column="1"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="85,12,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="83" Width="160" FontSize="10"><Run Text="An application written in Java can integrate the JVM within it, it "/><Run Text="can be implemented in HW, as middleware either integrated within the OS or sitting on top of the OS or as part of the application"/></TextBlock>
+        <Image Margin="578,91,170,150" Source="Image28.png" Stretch="Fill" Grid.Column="1"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="710,91,0,0" TextWrapping="Wrap" Text="A special situation where the programming language impacts the architecture of the application layer occurs when the application layer has to process source code from different scripting languages such as HTML and Javascript.  In this case a scripting language interpreter is then integrated into the application software." VerticalAlignment="Top" Height="216" Width="154"/>
+        <Image Margin="137,370,16,56" Source="Image29.png" Stretch="Fill" Grid.Column="1"/>
+        <Label Content="Reference: Embedded Systems Architecture, Daniele Lacamera" Grid.Column="1" HorizontalAlignment="Left" Margin="318,446,0,0" VerticalAlignment="Top" Width="342"/>
+    </Grid>
+</Window>
