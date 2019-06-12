@@ -5,7 +5,7 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases
 
 ![image](MainWindowImage.png)
 
-![image](MiddlewareLayer.png)
+![image](SystemSoftwareLayer.png)
 
 ![image](ApplicationLayer.png)
 
