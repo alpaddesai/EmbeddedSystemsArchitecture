@@ -21,3 +21,5 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases  Company conf
 ![image](Verilog.png)
 
 ![image](RahsoftADScertificate.jpg)
+
+![image](BachelorofEngineering_EE.png)
