@@ -32,4 +32,6 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases  Company conf
 
 ![image](RahsoftADScertificate.jpg)
 
+![image](XilinxCertifications.png)
+
 ![image](BachelorofEngineering_EE.png)
