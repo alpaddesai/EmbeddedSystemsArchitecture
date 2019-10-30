@@ -14,6 +14,14 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases  Company conf
 
 ![image](AllegroEditorImage.png)
 
+![image](SoC.png)
+
+![image](MemoryAddressing.png)
+
+![image](SoCCustomization.png)
+
+![image](Interconnect.png)
+
 ![image](VerilogImage.png)
 
 ![image](FPGADesignCertificate.png)
