@@ -26,11 +26,7 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases  Company conf
 
 ![image](FPGADesignCertificate.png)
 
-![image](Verilog.png)
-
 ![image](HardentStudentCertificate.png)
-
-![image](RahsoftADScertificate.jpg)
 
 ![image](XilinxCertifications.png)
 
