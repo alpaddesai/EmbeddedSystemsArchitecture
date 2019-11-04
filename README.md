@@ -24,6 +24,8 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases  Company conf
 
 ![image](Interconnect.png)
 
+![image](FPGADesignCertificate.png)
+
 ![image](HardentStudentCertificate.png)
 
 ![image](XilinxCertifications.png)
