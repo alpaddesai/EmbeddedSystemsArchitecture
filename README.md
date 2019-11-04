@@ -14,6 +14,8 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases  Company conf
 
 ![image](AllegroEditorImage.png)
 
+![image](VerilogImage.png)
+
 ![image](SoC.png)
 
 ![image](MemoryAddressing.png)
@@ -22,7 +24,6 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases  Company conf
 
 ![image](Interconnect.png)
 
-![image](VerilogImage.png)
 
 ![image](FPGADesignCertificate.png)
 
