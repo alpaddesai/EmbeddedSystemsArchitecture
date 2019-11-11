@@ -30,6 +30,4 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases  Company conf
 
 ![image](XilinxCertifications.png)
 
-![image](SDSoC.jpg)
-
 ![image](BachelorofEngineering_EE.png)
