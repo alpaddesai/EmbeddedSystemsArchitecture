@@ -16,14 +16,6 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases  Company conf
 
 ![image](VerilogImage.png)
 
-![image](SoC.png)
-
-![image](MemoryAddressing.png)
-
-![image](SoCCustomization.png)
-
-![image](Interconnect.png)
-
 ![image](FPGADesignCertificate.png)
 
 ![image](HardentStudentCertificate.png)
