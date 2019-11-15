@@ -16,10 +16,6 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases  Company conf
 
 ![image](VerilogImage.png)
 
-![image](FPGADesignCertificate.png)
-
-![image](HardentStudentCertificate.png)
-
 ![image](XilinxCertifications.png)
 
 ## Ranked: Top ten in the class all four years
