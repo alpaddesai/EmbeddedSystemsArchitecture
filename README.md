@@ -16,4 +16,4 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases  Company conf
 
 ![image](VerilogImage.png)
 
-![image](NEU_MS.pngg)
+![image](NEU_MS.png)
