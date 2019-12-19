@@ -16,5 +16,4 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases  Company conf
 
 ![image](VerilogImage.png)
 
-## Ranked: Top ten in the class all four years
-![image](BachelorofEngineering_EE.png)
+![image](NEU_MS.pngg)
