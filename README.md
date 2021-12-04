@@ -16,7 +16,4 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases  Company conf
 
 ![image](VerilogImage.png)
 
-## Interest
-![image](image1.png)
-
 Additional details reference: https://github.com/alpaddesai/HardwareEngineeringLab4-
