@@ -16,4 +16,6 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases  Company conf
 
 ![image](VerilogImage.png)
 
+![image](USCopyrightCertificate.png)
+
 Additional details reference: https://github.com/alpaddesai/HardwareEngineeringLab4-
