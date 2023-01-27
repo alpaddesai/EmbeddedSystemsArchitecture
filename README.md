@@ -20,4 +20,4 @@ https://github.com/alpaddesai/EmbeddedSystemsArchitecture/releases  Company conf
 
 ![image](Ethics.jpg)
 
-Additional details reference: https://github.com/alpaddesai/ArchitecturalProductDesign
+Additional details reference: https://github.com/alpaddesai/DesignEngineering
